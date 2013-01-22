@@ -1,0 +1,21 @@
+Hacker (title was spontaneously created)
+Idea by: Sean Zellmer @lejeunerenard
+
+Summary:
+A web game that is hackable but playable. A source of playful hacker cred.
+
+Proposed Features:
+ - Restrained but creativity inducing hackablity (yes thats a word even if only in my little world)
+ - Generic Objects
+
+Description:
+Inspired by this talk: http://www.youtube.com/watch?v=L6mkhptZ0gM
+In the talk, the talker's game was hacked. I thought to myself, what if you made a game to be purposefully hacked? It would be an online game where players could roam around and create their own world by hacking.
+
+I would like to allow extreme creativity in hacking but not allow some stupid kid to copy and paste a hack they found online. May this means that the game would have to be patched continuously to close hacking holes.
+Players would use whatever tools they want to interact with the game. Console in Chrome, wget, or nmap. Anything.
+
+Since there will be player created content in the world. They could "protect" their content with again a hack to prevent hacking.
+
+Cons:
+Definitely opens the server to attack. More invites it really.
