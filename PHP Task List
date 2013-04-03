@@ -1,24 +1,10 @@
 PHP Task List
-Idea by: Devon
+Idea by: [Devon](https://github.com/gryphon12186)
 
 Summary:
-A couple sentences about what the project would be about. 
-
-Proposed Features:
- - Amazing and achievable feature #1
- - Slightly fanciful feature, but possibly achievable
- - Dream-on feature
+Use the Symfony2 PHP framework to make a task list application to create, edit and delete tasks organized in lists.
 
 Skills/Materials/Tools Needed/Will be learned for Project: 
- - Javascript
- - Welding tools
-
-Description:
-Inspired by this talk: http://www.youtube.com/watch?blahblahblah
-
-Images uploaded to this repository: 
-
-Story of inspiration and hacker's vision
-
-Cons:
- - What could possibly go wrong?
+ - Intermediate PHP and OOP
+ - Apache, PHP 5.3.3+, My SQL (MAMP, WAMP or comparable installed) 
+ - Two hours or so
